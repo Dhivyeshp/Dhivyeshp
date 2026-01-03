@@ -12,8 +12,7 @@ I’ve been coding for several years and have worked across startups, research l
 ⚡ I enjoy building things that actually ship
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhivyeshp) [![Linkedin]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white
-)](https://www.linkedin.com/in/dhivyeshprithiviraj/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhivyeshp) [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhivyeshprithiviraj/)
 
 
 # 💻 Tech Stack:
