@@ -4,11 +4,11 @@ Hi there! I’m Dhivyesh Prithiviraj, a Computer Engineering student at the Univ
 
 I’ve been coding for several years and have worked across startups, research labs, and large student-run platforms. From deploying ML pipelines and cloud infrastructure to leading full-stack teams, I’m always looking to push my technical depth and real-world impact.
 
-🌍 Based in Dallas, TX
-✉️ Contact: dhivyeshrathi@gmail.com
-🚀 Currently building full-stack and ML-driven applications
-🧠 Exploring applied AI/ML, cloud systems, and DevOps
-🤝 Open to collaborating on full-stack, cloud, and ML projects
+🌍 Based in Dallas, TX<br>
+✉️ Contact: dhivyeshrathi@gmail.com<br>
+🚀 Currently building full-stack and ML-driven applications<br>
+🧠 Exploring applied AI/ML, cloud systems, and DevOps<br>
+🤝 Open to collaborating on full-stack, cloud, and ML projects<br>
 ⚡ I enjoy building things that actually ship
 
 # 🌐 Socials:
