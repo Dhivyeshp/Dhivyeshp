@@ -7,11 +7,9 @@
   <img src="https://img.shields.io/github/followers/Dhivyeshp?label=Followers&style=flat&color=14b8a6" alt="followers" />
 </p>
 
-<h3 align="center">Software Engineer | UT Dallas '27 | Dallas, TX</h3>
+<h3 align="center">Computer Engineering | UT Dallas '27 | Dallas, TX</h3>
 
 <br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br>
 
